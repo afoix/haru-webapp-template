@@ -10,5 +10,6 @@ The applicatation is made with...
 ### Thymeleaf
 
 ## Diagram of the architecture of the application 
+![Architecture_diagram](Web_app_architecture.svg)
 
 
