@@ -41,3 +41,5 @@ Provides fast application restarts, LiveReload, and configurations for enhanced 
 * `resources/templates` contains HTML template files for Thymeleaf
 * `application.properties` contains properties for connecting to the database
 * `test` contains tests for all the classes, and SQL for setting up the test database.
+
+## Missing explain TDD/BDD and Dev cycle
