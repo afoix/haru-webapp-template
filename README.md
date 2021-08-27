@@ -44,3 +44,4 @@ Provides fast application restarts, LiveReload, and configurations for enhanced 
 * `test` contains tests for all the classes, and SQL for setting up the test database.
 
 ## Missing explain TDD/BDD and Dev cycle
+## Missing general deployment documentation
