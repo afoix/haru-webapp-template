@@ -40,8 +40,8 @@ Provides fast application restarts, LiveReload, and configurations for enhanced 
 * The `persistence` package has examples of an entity and repository for communicating with the database
 * The `exceptions` package has an example of a custom exception
 * `resouces/db/migration` contains the Flyway scripts for initializing the database schema
-* `resources/templates` contains HTML template files for Thymeleaf
-* `application.properties` contains properties for connecting to the database
+* `resources/templates` contains HTML template files for Thymeleaf.
+* `application.properties` contains properties for connecting to the database.
 * `test` contains tests for all the classes, and SQL for setting up the test database.
 
 ## Missing explain TDD/BDD and Dev cycle
