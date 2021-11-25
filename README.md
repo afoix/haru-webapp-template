@@ -7,7 +7,7 @@ This is a template for a web application using Spring boot, flyway and thymeleaf
 The application is made with the technologies below:
 
 
-### Spring-boot (+ Maven)
+### Spring-boot (and Maven)
 Spring Boot (including Spring Web MVC and Spring Data JPA) is an app framework for making web apps, it does a lot of things for us.
 
 ### Flyway
