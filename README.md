@@ -2,7 +2,7 @@
 This is a template for a web application using Spring boot, flyway and thymeleaf.
 
 
-## Technologies
+## Technology stack
 
 The application is made with the technologies below:
 
