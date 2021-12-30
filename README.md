@@ -3,7 +3,6 @@ This is a template for a web application using Spring boot, flyway and thymelea.
 
 
 ## Technology stack
-
 The application is made with the technologies below:
 
 
