@@ -44,5 +44,5 @@ Provides fast application restarts, LiveReload, and configurations for enhanced 
 * `test` contains tests for all the classes, and SQL for setting up the test database.
 
 ##  TDD/BDD and Dev cycle
-Add graph with TDD and BDD and more frameworks. Apply new TDD
+Add graph with TDD and BDD and more frameworks. 
 
