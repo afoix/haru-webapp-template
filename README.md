@@ -27,7 +27,7 @@ Provides fast application restarts, LiveReload, and configurations for enhanced 
 * **Spring Data JPA** SQL persist data in SQL stores with Java Persistence API using Spring Data and Hibernate.
 * **Flyway Migration** SQL Version control for your database so you can migrate from any version (incl. an empty database) to the latest version of the schema.
 * **MySQL Driver** SQL MySQL JDBC and R2DBC driver.
-* **Spring Boot Actuator** OPS Supports built in (or custom) endpoints that let you monitor and manage your application - such as application health, metrics, sessions, etc.
+* **Spring Boot Actuator** OPS Supports built in (or custom) endpoints that let you monitor and manage your application - such as application health, metrics, sessions...
 * **H2 Database** SQL Provides a fast in-memory database that supports JDBC API and R2DBC access, with a small (2mb) footprint. Supports embedded and server modes as well as a browser based console application
 
 ## What's in the project
