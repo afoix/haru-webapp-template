@@ -7,7 +7,7 @@ The application is made with the technologies:
 
 
 ### Spring-boot 
-Spring Boot (including Spring Web MVC and Spring Data JPA) is an app framework for making web apps, it does a lot of things for us.
+Spring Boot (including Spring Web MVC and Spring Data JPA) is an app framework for making web apps, it does a lot of things for us
 
 ### Flyway
 Flyway handle automatically setting up and upgrading the database schema for us.
